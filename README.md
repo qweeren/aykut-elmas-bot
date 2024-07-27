@@ -76,4 +76,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 Acknowledgements
 
--# Thanks to Aykut Elmas for the hilarious content
+[^1]:Thanks to Aykut Elmas for the hilarious content
